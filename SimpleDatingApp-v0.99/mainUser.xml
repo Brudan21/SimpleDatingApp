@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mainUser>
+ <object>
+  <name>Bruno</name>
+  <surname>Rudan</surname>
+  <MBTI>ISTJ</MBTI>
+  <age>23</age>
+  <sex>M</sex>
+  <password>dudebro</password>
+  <hobbies> Writing Reading</hobbies>
+ </object>
+ <object>
+  <name>Mate</name>
+  <surname>Balota</surname>
+  <MBTI>INTJ</MBTI>
+  <age>26</age>
+  <sex>M</sex>
+  <password>loser</password>
+  <hobbies> Reading Hiking Photography</hobbies>
+ </object>
+</mainUser>

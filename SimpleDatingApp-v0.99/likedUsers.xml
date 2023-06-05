@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<likedUsers>
+ <object>
+  <name>Bruno</name>
+  <surname>Rudan</surname>
+  <password>dudebro</password>
+ </object>
+ <object>
+  <name>Universala</name>
+  <surname>Match</surname>
+  <password>dudebro</password>
+ </object>
+</likedUsers>

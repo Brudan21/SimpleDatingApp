@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userBase>
+	<object>
+        <name>Mate</name>
+        <surname>Balota</surname>
+        <age>58</age>
+        <sex>M</sex>
+        <MBTI>INTJ</MBTI>
+        <hobbies>Photography Reading</hobbies>
+	</object>
+
+    <object>
+        <name>Jure</name>
+        <surname>Balota</surname>
+        <age>58</age>
+        <sex>M</sex>
+        <MBTI>ISTJ</MBTI>
+        <hobbies>Photography Reading Writing</hobbies>
+    </object>
+<object>
+        <name>Jozo</name>
+        <surname>Balota</surname>
+        <age>18</age>
+        <sex>M</sex>
+        <MBTI>INFJ</MBTI>
+        <hobbies>Travelling Reading Hiking</hobbies>
+	</object>
+
+    <object>
+        <name>Clint</name>
+        <surname>Eastwood</surname>
+        <age>92</age>
+        <sex>M</sex>
+        <MBTI>ESTJ</MBTI>
+        <hobbies>Photography Board games Fishing Gaming</hobbies>
+    </object>
+<object>
+        <name>Universal</name>
+        <surname>Match</surname>
+        <age>25</age>
+        <sex>M</sex>
+        <MBTI>INTJ</MBTI>
+        <hobbies>Photography Reading Writing Board games Sports Hiking Gaming Drawing Travelling Photography Cooking Fishing Gardening"</hobbies>
+	</object>
+
+            <object>
+                <name>Universala</name>
+                <surname>Match</surname>
+                <age>25</age>
+                <sex>F</sex>
+                <MBTI>INTJ</MBTI>
+                <hobbies>Photography Reading Writing Board games Sports Hiking Gaming Drawing Travelling Photography Cooking Fishing Gardening"</hobbies>
+                </object>
+    <object>
+        <name>Bruce</name>
+        <surname>Wayne</surname>
+        <age>34</age>
+        <sex>M</sex>
+        <MBTI>INTJ</MBTI>
+        <hobbies>Drawing Travelling Cooking Reading</hobbies>
+    </object>
+<object>
+        <name>Stannis</name>
+        <surname>Baratheon</surname>
+        <age>48</age>
+        <sex>M</sex>
+        <MBTI>ENTJ</MBTI>
+        <hobbies>Fishing Gardening Writing Sports Reading</hobbies>
+	</object>
+
+    <object>
+        <name>Tim</name>
+        <surname>Croos</surname>
+        <age>58</age>
+        <sex>M</sex>
+        <MBTI>INFJ</MBTI>
+        <hobbies>Photography Writing Hiking Gaming Reading</hobbies>
+    </object>
+<object>
+        <name>Jean-Luc</name>
+        <surname>Picard</surname>
+        <age>58</age>
+        <sex>M</sex>
+        <MBTI>ESFJ</MBTI>
+        <hobbies>Photography Board games Gardening Fishing Reading</hobbies>
+	</object>
+
+    <object>
+        <name>Victoria</name>
+        <surname>Windsor</surname>
+        <age>21</age>
+        <sex>F</sex>
+        <MBTI>ISFJ</MBTI>
+        <hobbies>Photography Board games Fishing Gaming</hobbies>
+    </object>
+<object>
+        <name>Angelina</name>
+        <surname>Jolie</surname>
+        <age>58</age>
+        <sex>F</sex>
+        <MBTI>INFJ</MBTI>
+        <hobbies>Photography Reading Hiking Sports</hobbies>
+	</object>
+
+    <object>
+        <name>Ana</name>
+        <surname>Balota</surname>
+        <age>19</age>
+        <sex>F</sex>
+        <MBTI>INTJ</MBTI>
+        <hobbies>Sports Fishing Drawing Photography Reading</hobbies>
+    </object>
+<object>
+        <name>Marija</name>
+        <surname>Balota</surname>
+        <age>29</age>
+        <sex>F</sex>
+        <MBTI>ESTJ</MBTI>
+        <hobbies>Board games Gardening Cooking Writing Photography Reading</hobbies>
+	</object>
+
+    <object>
+        <name>Edita</name>
+        <surname>Warton</surname>
+        <age>25</age>
+        <sex>F</sex>
+        <MBTI>ISTJ</MBTI>
+        <hobbies>Drawing Gaming Photography Reading</hobbies>
+    </object>
+<object>
+        <name>Agatha</name>
+        <surname>Christie</surname>
+        <age>27</age>
+        <sex>F</sex>
+        <MBTI>INTP</MBTI>
+        <hobbies>Writing Sports Travelling Photography Reading</hobbies>
+	</object>
+
+    <object>
+        <name>Ivana</name>
+        <surname>Horvat</surname>
+        <age>21</age>
+        <sex>F</sex>
+        <MBTI>ENTP</MBTI>
+        <hobbies>Gaming Sports Fishing Photography Reading</hobbies>
+    </object>
+<object>
+        <name>Lucija</name>
+        <surname>Kovač</surname>
+        <age>20</age>
+        <sex>F</sex>
+        <MBTI>ENFP</MBTI>
+        <hobbies>Hiking Drawing Gaming Photography Reading</hobbies>
+	</object>
+
+    <object>
+        <name>Andrea</name>
+        <surname>Horvat</surname>
+        <age>28</age>
+        <sex>F</sex>
+        <MBTI>ENFP</MBTI>
+        <hobbies>Writing Drawing Fishing Cooking Photography Reading</hobbies>
+    </object>
+</userBase>

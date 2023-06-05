@@ -1,0 +1,23 @@
+# ninja log v5
+3	1618	7076552556730232	SimpleDatingApp_autogen/timestamp	3f71eb417fdf73f0
+3	1618	7076552556730232	SimpleDatingApp_autogen/mocs_compilation.cpp	3f71eb417fdf73f0
+3	1618	7076552556730232	C:/Users/Bruno/Desktop/izvjestaji/build-SimpleDatingApp-Desktop_Qt_6_5_1_MinGW_64_bit-Release/SimpleDatingApp_autogen/timestamp	3f71eb417fdf73f0
+3	1618	7076552556730232	C:/Users/Bruno/Desktop/izvjestaji/build-SimpleDatingApp-Desktop_Qt_6_5_1_MinGW_64_bit-Release/SimpleDatingApp_autogen/mocs_compilation.cpp	3f71eb417fdf73f0
+1619	4476	7076552587947277	CMakeFiles/SimpleDatingApp.dir/SimpleDatingApp_autogen/mocs_compilation.cpp.obj	5cf53583a367f742
+1643	4508	7076552588277349	CMakeFiles/SimpleDatingApp.dir/main.cpp.obj	61b3d90ed7a14b41
+1630	7194	7076552615133405	CMakeFiles/SimpleDatingApp.dir/mainwindow.cpp.obj	648ea63df03e65de
+7195	7848	7076552621620416	SimpleDatingApp.exe	2aef21cb214acde0
+56	513	7076658700943143	SimpleDatingApp_autogen/timestamp	3f71eb417fdf73f0
+56	513	7076658700943143	SimpleDatingApp_autogen/mocs_compilation.cpp	3f71eb417fdf73f0
+56	513	7076658700943143	C:/Users/Bruno/Desktop/izvjestaji/build-SimpleDatingApp-Desktop_Qt_6_5_1_MinGW_64_bit-Release/SimpleDatingApp_autogen/timestamp	3f71eb417fdf73f0
+56	513	7076658700943143	C:/Users/Bruno/Desktop/izvjestaji/build-SimpleDatingApp-Desktop_Qt_6_5_1_MinGW_64_bit-Release/SimpleDatingApp_autogen/mocs_compilation.cpp	3f71eb417fdf73f0
+520	6012	7076658755935472	CMakeFiles/SimpleDatingApp.dir/mainwindow.cpp.obj	648ea63df03e65de
+6013	6425	7076658759996400	SimpleDatingApp.exe	2aef21cb214acde0
+7	1164	7076786978252247	SimpleDatingApp_autogen/timestamp	3f71eb417fdf73f0
+7	1164	7076786978252247	SimpleDatingApp_autogen/mocs_compilation.cpp	3f71eb417fdf73f0
+7	1164	7076786978252247	C:/Users/Bruno/Desktop/izvjestaji/build-SimpleDatingApp-Desktop_Qt_6_5_1_MinGW_64_bit-Release/SimpleDatingApp_autogen/timestamp	3f71eb417fdf73f0
+7	1164	7076786978252247	C:/Users/Bruno/Desktop/izvjestaji/build-SimpleDatingApp-Desktop_Qt_6_5_1_MinGW_64_bit-Release/SimpleDatingApp_autogen/mocs_compilation.cpp	3f71eb417fdf73f0
+1171	4291	7076787012419972	CMakeFiles/SimpleDatingApp.dir/main.cpp.obj	61b3d90ed7a14b41
+1165	4316	7076787012670121	CMakeFiles/SimpleDatingApp.dir/SimpleDatingApp_autogen/mocs_compilation.cpp.obj	5cf53583a367f742
+1168	7340	7076787042901225	CMakeFiles/SimpleDatingApp.dir/mainwindow.cpp.obj	648ea63df03e65de
+7340	7659	7076787046031959	SimpleDatingApp.exe	2aef21cb214acde0
